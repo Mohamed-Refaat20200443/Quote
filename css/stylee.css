@@ -1,0 +1,36 @@
+body{
+    font-family: 'Asap Condensed', sans-serif;
+
+}
+h1{
+    font-size: 80px;
+}
+
+p{
+    font-size: 30px;
+    color:chartreuse;
+}
+
+.btn-main{
+    color:white;
+    transition: 0.2s all ;
+    background-color: black;
+}
+
+.btn-main:hover{
+   
+    background-color: white;
+    color: black;
+    
+}
+
+
+
+
+header{
+    background-image:linear-gradient(#0009,#0009) ,url("../wp7110622.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
